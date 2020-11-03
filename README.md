@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
+- 🌱 I’m currently learning Full Stack Web Development.
+- 🥅 2020 Goals: Learn as much as i can.
+- ⚡ Fun fact: I love to cook and play volleyball.
 
 <br>
 
