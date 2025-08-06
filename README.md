@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/naveensreevalsan/">
   <img align="left" alt="LinkedIn - Naveen Sreevalsan" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="mailto:naveensreevalsan@karunya.edu.in">
+<a href="mailto:nav.sreevalsan@gmail.com">
   <img align="left" alt="Email - Naveen Sreevalsan" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
