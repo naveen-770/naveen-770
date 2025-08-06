@@ -1,47 +1,35 @@
-
-
-<!--
-**naveen-770/naveen-770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    I am a 4th Year undergraduate from <a href="https://www.karunya.edu/"> <b>Karunya Institute of Technology and Sciences</b>, Coimbatore</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  <b></b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
+    I'm <b>Naveen Sreevalsan</b>, a passionate <b>Frontend Developer</b> with 4+ years of professional experience, currently building scalable web applications at <b>Accenture</b>. <br>
+    I'm driven by a constant desire to improve and love crafting <b>performant</b>, <b>accessible</b>, and <b>clean</b> user interfaces. <br>
+    Currently upskilling with <b>React</b> to stay ahead in the frontend ecosystem 🚀
+  </em>
 </p>
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 🥅 2020 Goals: Learn as much as i can.
-- ⚡ Fun fact: I love to cook and play volleyball.
+---
 
-<br>
+- 🔭 Currently building: a **React NoteKeeper App** with Context API, Form Validation, and Routing
+- 💼 Previously built and maintained large-scale enterprise apps for automotive clients
+- 🌱 Learning: React, Tailwind CSS, Frontend System Design
+- 🧠 Strengths: Angular, TypeScript, JavaScript, HTML/CSS, Git, Agile workflows
+- 🎯 2025 Goal: Land a frontend role with a sharper tech stack and more ownership
+- ⚡ Fun fact: I play volleyball and love experimenting in the kitchen!
 
+---
 
-![naveen-770's github stats](https://github-readme-stats.vercel.app/api?username=naveen-770&show_icons=true&hide_border=true)
+![naveen-770's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen-770&show_icons=true&hide_border=true&theme=default)
 
-<br>
+---
 
-  <a href="https://www.linkedin.com/in/naveensreevalsan/">
-    <img align="left" alt="Naveen Sreevalsan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:naveensreevalsan@karunya.edu.in">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+📫 **Let's connect:**
 
-<br><br><br><br>
+<a href="https://www.linkedin.com/in/naveensreevalsan/">
+  <img align="left" alt="LinkedIn - Naveen Sreevalsan" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+<a href="mailto:naveensreevalsan@karunya.edu.in">
+  <img align="left" alt="Email - Naveen Sreevalsan" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+
+<br><br>
