@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I'm <b>Naveen Sreevalsan</b>, a passionate <b>Frontend Developer</b> with 4+ years of professional experience, currently building scalable web applications at <b>Accenture</b>. <br>
+    I'm <b>Naveen Sreevalsan</b>, a passionate <b>Frontend Developer</b> with 4+ years of professional experience, currently building scalable web applications at <b>Trivium India Pvt. Ltd.</b>. <br>
     I'm driven by a constant desire to improve and love crafting <b>performant</b>, <b>accessible</b>, and <b>clean</b> user interfaces. <br>
     Currently upskilling with <b>React</b> to stay ahead in the frontend ecosystem 🚀
   </em>
